@@ -1,7 +1,17 @@
+# folders
 build/
 dist/
+bin/
+out/
+
+# java
 *.class
 *.jar
-*.o
+
+# c
 *.exe
+*.o
+*.out
+*.bin
+*.elf
 
