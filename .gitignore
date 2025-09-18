@@ -15,3 +15,12 @@ out/
 *.bin
 *.elf
 
+# delphi
+Win32/
+Win64/
+__history/
+__recovery/
+*.local
+*.identcache
+*.stat
+

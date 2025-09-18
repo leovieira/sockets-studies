@@ -4,6 +4,8 @@ This repository is dedicated to the study of computer networks, with a specific 
 
 ## 📂 Structure
 
+- [Delphi](delphi/)
 - [Java](java/)
 - [Linux](linux/)
 - [Windows](windows/)
+
